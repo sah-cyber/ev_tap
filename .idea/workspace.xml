@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89477aa0-02be-4bee-afa3-c1809935055f" name="Changes" comment="yeni">
+      <change afterPath="$PROJECT_DIR$/tap_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tap_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tap_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Python.tap_2.executor": "Run",
     "Python.tap_3.executor": "Run",
     "Python.tap_4.executor": "Run",
+    "Python.tap_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -75,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792061726078</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="yeni">
+      <option name="closed" value="true" />
+      <created>1792062603128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792062603128</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
