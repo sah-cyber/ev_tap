@@ -8,7 +8,7 @@ def vurma_cedveli():
             eded_al= int(input('Bir tam eded girin zehmet olmasa: '))
             break
 
-        except (ValueError,ZeroDivisionError):
+        except (ValueError):
             print("Yanlis secim! Tam ededler daxil edin")
 
 
